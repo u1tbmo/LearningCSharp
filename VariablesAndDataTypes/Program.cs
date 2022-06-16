@@ -52,6 +52,16 @@ Otherwise, you are assigning a double to a decimal variable.
 
 decimal g = 3.14m; // Declares a decimal g, assigns it a value of 3.14
 
+// Operators
+int x = 10;
+int y = 2;
+
+int add = x + y; // Addition
+int subtract = x - y; // Subtraction
+int multiply = x * y; // Multiplication
+int divide = x / y; // Division
+int modulus = x % y; // Modulus
+
 // Prints the values of the variables
 
 Console.WriteLine(a);
@@ -61,3 +71,8 @@ Console.WriteLine(d);
 Console.WriteLine(e);
 Console.WriteLine(f);
 Console.WriteLine(g);
+Console.WriteLine(add);
+Console.WriteLine(subtract);
+Console.WriteLine(multiply);
+Console.WriteLine(divide);
+Console.WriteLine(modulus);
