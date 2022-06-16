@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDataTypes", "VariablesAndDataTypes\VariablesAndDataTypes.csproj", "{0D95B8B9-9830-4630-888F-502BA0CA094D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting", "TypeCasting\TypeCasting.csproj", "{AAD2B08F-FC29-496D-8C8F-9F238D1C88CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D95B8B9-9830-4630-888F-502BA0CA094D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D95B8B9-9830-4630-888F-502BA0CA094D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D95B8B9-9830-4630-888F-502BA0CA094D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD2B08F-FC29-496D-8C8F-9F238D1C88CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD2B08F-FC29-496D-8C8F-9F238D1C88CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD2B08F-FC29-496D-8C8F-9F238D1C88CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD2B08F-FC29-496D-8C8F-9F238D1C88CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
