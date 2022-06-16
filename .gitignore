@@ -386,3 +386,5 @@ FodyWeavers.xsd
 
 # Ignore code-workspaces
 *.code-workspace
+.vscode/launch.json
+.vscode/tasks.json
