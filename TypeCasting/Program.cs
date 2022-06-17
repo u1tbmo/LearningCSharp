@@ -5,7 +5,7 @@ int a;
 a = 10;
     // a = "10"; will cause an error
     // a is an int, not a string
-
+Console.WriteLine(a);
 
 // Implicit Conversion
 // Implicit conversion is when the compiler converts a value from one type to another.
