@@ -10,7 +10,7 @@ namespace StackHeap
     {
             public int AddTwo(int val){
             int result;
-            result = val + 2L;
+            result = (int)(val + 2L);
             return result;
         }
     }
