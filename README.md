@@ -11,5 +11,6 @@ A repository/solution made by me to learn C#. For personal use only.
 2. Type Casting
 3. Stack and Heap
 4. Arrays
+5. Strings
 
 > More to be added in the future.
