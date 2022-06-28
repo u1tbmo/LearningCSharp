@@ -45,3 +45,13 @@ var sb = new StringBuilder();
 var testStringBuilder = sb.Append(firstName);
 
 Console.WriteLine(lastName);
+
+// Remove CS0219 Errors
+Console.WriteLine(a);
+Console.WriteLine(b);
+
+c = "Hello World"; // Assign a new value to c.
+Console.WriteLine(c);
+
+Console.WriteLine(literalPath);
+Console.WriteLine(verbatimPath);

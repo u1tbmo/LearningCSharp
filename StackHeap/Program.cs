@@ -15,3 +15,8 @@ StackHeapObject stackHeap = new StackHeapObject(); // stackHeap is a reference t
 Console.WriteLine(value);
 stackHeap.AddTwo(value); // calls AddTwo on the stackHeap object, returning value + 2L
 Console.WriteLine(value); 
+
+// Remove CS0219 Errors
+Console.WriteLine(lowLevelValue);
+Console.WriteLine(Bool);
+Console.WriteLine(phrase);
